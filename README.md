@@ -1,5 +1,7 @@
-# TANGGUH
-**Tata Amanat Network Generik Guna Update dan Hardening**
+
+![tangguh (1)](https://github.com/user-attachments/assets/5de824de-7d82-4663-bba2-67034c72f27f)
+
+## Tata Amanat Network Generik Guna Update dan Hardening
 
 **reC0ded by IT T4mp@n, 2024 - S0URCE BY XSAN LAHCI**
 
