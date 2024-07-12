@@ -51,4 +51,5 @@ Script ini bertujuan untuk melakukan hardening dan pembaruan pada sistem Ubuntu,
 1. Pastikan Anda memiliki akses root atau menggunakan `sudo`.
 2. Unduh script ini dan jalankan dengan perintah:
    ```bash
+   chmod +x tangguh-v1.sh.x
    sudo ./tangguh-v1.sh.x
